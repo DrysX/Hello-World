@@ -1,6 +1,6 @@
 Hola mundo
 
-## Actualmente estoy aprendiendo:
+## Nowadays I am leaning:
 - Python
 - HTML
 - CSS
